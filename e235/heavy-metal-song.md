@@ -1,6 +1,6 @@
 # How to Write a Heavy Metal Song
 
-![Metal dudes.](https://github.com/jloan/mini-projects-sandbox/blob/master/e235/heavy-metal/2.jpg)
+![Metal dudes.](https://github.com/clancymoody/e235/blob/master/AA.jfif)
 
 Have a dream of being in a successful metal band but don't know how to start? There is no trick to making a good metal song. All you need is some knowledge of how to start, an idea of the sound you're aiming for, and like minded bandmates. These tips are also good for most other types of popular music. 
 
